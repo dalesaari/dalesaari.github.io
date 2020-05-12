@@ -1,6 +1,6 @@
 ## Dale Saari GitHub Page
 
-Click the button in the top-right to go to my guthub projects..
+Click the button in the top-right to go to my guthub projects.
 
 Everything is very basic right now, but between pipelined projects and online coursework things should be added semi-regularly.
 
@@ -13,8 +13,8 @@ Current Courses I am working on:
 ```markdown
 Linux Academy AWS Essentials
 
-- Intent is to complete my AWS Certified Solutions Architect Associate
-- Expecting to finish course and begin certification prep May 17 2020
+- Intent to complete AWS Certified Solutions Architect Associate
+- Expecting course completion and certification prep May 17 2020
 
 The Complete Web Developer in 2020: Zero to Mastery
 
